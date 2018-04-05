@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aula02</string>
+    <string name="informe_o_material_que_deseja">Informe o material que deseja</string>
+    <string name="piso_branco_baixo_brilho">Piso branco baixo brilho</string>
+    <string name="piso_albania">Piso albania</string>
+    <string name="porcelanato_perlato_branco">Porcelanato perlato branco</string>
+    <string name="revestimento_mosaico">Revestimento mosaico</string>
+    <string name="informe_a_medida_em_m">Informe a medida em m²</string>
+    <string name="_10">10</string>
+    <string name="ultra_frete_mega_rapido">Ultra frete mega rapido</string>
+    <string name="calcular">Calcular</string>
+    <string name="r_00">R$00</string>
+</resources>
